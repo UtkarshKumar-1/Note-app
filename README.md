@@ -1,6 +1,8 @@
 📝 Note App
 A clean and minimal note-taking Android application built with Kotlin and Jetpack Compose. The app provides a simple interface for creating and managing notes, with colorful note cards and sorting options.
 
+![image alt](https://github.com/UtkarshKumar-1/Note-app/blob/ec7189749b1bac5e7059883b22d5fa26f1de9e6e/app-ui.png)
+
 		
 
 
